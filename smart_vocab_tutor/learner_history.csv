@@ -1,0 +1,6 @@
+student_id,word,difficulty,correct,time_taken,attempts
+1,diligent,easy,1,8,1
+1,hypothetical,medium,0,15,2
+1,gregarious,hard,0,20,3
+1,benevolent,easy,1,7,1
+1,ambiguous,medium,0,18,2
